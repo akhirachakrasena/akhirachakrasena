@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhirachakrasena
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on Autonomous Driving Projects
+- 👀 I’m interested in Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning Neural Networks.
+- 💞️ I’m looking to collaborate on projects involving emerging technologies.
 - 📫 How to reach me thescififactory@gmail.com
 
 <!---
